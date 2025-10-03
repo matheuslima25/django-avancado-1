@@ -1,8 +1,8 @@
-# Django Revisão - Atividade Prática 🚀
+# Django Avançado I - Atividade Prática 🚀
 
 ## 📌 **Sobre a Atividade**
 
-Esta atividade faz parte da disciplina de **Desenvolvimento Web II** no curso de **Análise e Desenvolvimento de Sistemas da UNIFIP**, ministrada pelo professor **José Matheus**.
+Esta atividade faz parte da disciplina de **Desenvolvimento Web I** no curso de **Análise e Desenvolvimento de Sistemas da UNIFIP**, ministrada pelo professor **José Matheus**.
 
 Este repositório contém uma aplicação Django **pré-escrita**, mas **incompleta**. O objetivo será **completar e aprimorar** a aplicação adicionando funcionalidades como:
 
